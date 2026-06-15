@@ -1,9 +1,0 @@
-# Binaries
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-scheduler.db
-tests/scheduler.db
-go.sum
